@@ -2,3 +2,4 @@
 - 👨‍💻 I’m currently working on website development.
 - ⚛️ I've been using mostly [Laravel](https://laravel.com/).
 - ✍ I'm currently writing a book.
+- 🧙 I'm leading a christian theology web project.
